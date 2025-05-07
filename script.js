@@ -1,4 +1,4 @@
-var images = ['Pic.jpg'];
+var images = ['Pi.jpg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
